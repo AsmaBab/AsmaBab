@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Asma Babeker</h1>
-<h3 align="center"> Web Developer | UI/UX Designer | AI/ML Explorer 🚀🚀</h3>
+<h3 align="center">Web Developer | UI/UX Designer | AI/ML Explorer 🚀🚀</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AsmaBab&label=Profile%20views&color=0e75b6&style=flat" alt="AsmaBab" /> 
@@ -8,17 +8,17 @@
   </a>
 </p>
 
-
 ---
 
+### **🌟 About Me**  
+- 💻  **Full-Stack Alchemist**: Transforming ideas into dynamic web experiences with **React.js** and **Django REST**, blending frontend elegance with backend robustness.  
+- 🎨  **Pixel Perfectionist**: Designing intuitive, user-centric interfaces in **Figma** where aesthetics meet functionality.  
+- 🤖  **AI Curious**: Venturing into the realm of **Machine Learning**, crafting intelligent models with **TensorFlow** to solve real-world puzzles.  
+- 📚  **Lifelong Learner**: Computer Science student by day, open-source contributor by night—always sharpening my problem-solving toolkit.  
+- ✨  **Beyond Code**: Fueled by Ethiopian coffee ☕, lost in fantasy novels 📖, and brainstorming my next big project.  
+- 🤝  **Collaboration Catalyst**: Thrive on innovative partnerships—let’s build something extraordinary together! → **asma27ba@gmail.com**  
 
-### **🔥 About Me**  
-- 💻 **Web Developer** specializing in **React (Frontend)** + **Django REST Framework (Backend)**.  
-- 🎨 **UI/UX Designer** crafting intuitive interfaces with **Figma**.  
-- 🤖 **Exploring AI/ML** to build intelligent Modeles.  
-- 📚 **Computer Science Student** | Open-Source Contributor | Problem Solver.  
-- ✨ **Fun Fact**: Coffee-fueled coder ☕ | Bookworm 📖 | Let’s chat: asma27ba@gmail.com  
-- 🔗 Always open to collaborating on innovative projects!
+                                        > *"First, solve the problem. Then, write the code."* — John Johnson  
 
 ---
 
@@ -48,9 +48,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 
-
 ---
 
+### **📈 GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaBab&show_icons=true&theme=radical" alt="Stats" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaBab&theme=radical" alt="Streak" width="90%">
+</div>
+
+---
 
 ### **📫 Let’s Connect!**  
 <p align="left">
@@ -64,12 +70,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
-
----
-
-### **📈 GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaBab&show_icons=true&theme=radical" alt="Stats" width="90%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaBab&theme=radical" alt="Streak" width="90%">
-</div>
-
