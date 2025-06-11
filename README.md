@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Asma Babeker</h1>
-<h3 align="center">Web Developer | UI/UX Designer | AI/ML Explorer 🚀🚀</h3>
+<h3 align="center">Web Developer | UI/UX Designer | AI/ML Explorer 🚀</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AsmaBab&label=Profile%20views&color=0e75b6&style=flat" alt="AsmaBab" /> 
@@ -15,7 +15,7 @@
 - 🎨  **Pixel Perfectionist**: Designing intuitive, user-centric interfaces in **Figma** where aesthetics meet functionality.  
 - 🤖  **AI Curious**: Venturing into the realm of **Machine Learning**, crafting intelligent models with **TensorFlow** to solve real-world puzzles.  
 - 📚  **Lifelong Learner**: Computer Science student by day, open-source contributor by night—always sharpening my problem-solving toolkit.  
-- ✨  **Beyond Code**: Fueled by Ethiopian coffee ☕, lost in fantasy novels 📖, and brainstorming my next big project.  
+- ✨  **Beyond Code**: Fueled by coffee ☕, lost in fantasy novels 📖, and brainstorming my next big project.  
 - 🤝  **Collaboration Catalyst**: Thrive on innovative partnerships—let’s build something extraordinary together! → **asma27ba@gmail.com**  
 
                                         > *"First, solve the problem. Then, write the code."* — John Johnson  
